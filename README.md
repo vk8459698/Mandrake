@@ -1,6 +1,3 @@
-Thank you for providing the correct GitHub URL and author details. Below is a revised `README.md` in GitHub Markdown format tailored for the OpenBioLink project steps and data, assuming the repository is hosted at `https://github.com/vk8459698/Mandrake/tree/main` by Vivek Kumar. The content reflects the steps, scripts, and outputs from your provided terminal interactions, ensuring accuracy and relevance to the OpenBioLink project.
-
-
 # OpenBioLink Project Guide
 
 Welcome to the OpenBioLink Project, hosted by Vivek Kumar at [https://github.com/vk8459698/Mandrake](https://github.com/vk8459698/Mandrake). This repository provides a comprehensive guide to working with the OpenBioLink dataset, including data downloading, exploration, analysis, and training a knowledge graph embedding model (TransE). Below are the detailed steps and scripts used to process, analyze, and model the OpenBioLink dataset.
