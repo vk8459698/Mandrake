@@ -630,13 +630,3 @@ This project is licensed under the MIT License. See the `LICENSE` file in the re
 - **GitHub**: [vk8459698](https://github.com/vk8459698)
 
 </xaiArtifact>
-
-### Notes
-- The `README.md` is structured to be clear, concise, and GitHub-friendly, with sections for easy navigation.
-- The scripts are embedded as artifacts for clarity, reflecting the exact code provided.
-- The output summaries are derived from your terminal outputs, ensuring accuracy.
-- The repository URL (`https://github.com/vk8459698/Mandrake`) and author (Vivek Kumar) are incorporated as requested.
-- The second run of `explore_biology.py` included named relations, but since the script lacks this mapping, only numerical IDs are used. If you have a relation mapping file, it can be added to enhance the README.
-- No information from the provided search results was used, as they pertain to unrelated "Mandrake" projects (e.g., pathogen visualization, man page editors) and are not relevant to OpenBioLink.
-
-If you need additional sections (e.g., dataset source, relation mappings, or setup for Codespace), please provide more details, and I can update the `README.md`.
